@@ -1,0 +1,98 @@
+.products-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ul-menu {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.ul-menu li {
+    padding: 10px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.hp-price {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.hp-price h2 {
+    margin-right: 50px;
+    color: magenta;
+}
+
+.form-price {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.div-from label {
+    color: firebrick;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.div-to label {
+    color: firebrick;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.form-price button {
+    background-color: magenta;
+    width: 80px;
+    border-radius: 10%;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.section-categories h3 {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 30px;
+      color: blue;
+}
+
+.section-categories ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    color: saddlebrown;
+    cursor: pointer;
+    margin-bottom: 80px;
+}
+
+.btns-order {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.btns-order button {
+    width: 180px;
+    height: 30px;
+    background-color: magenta;
+    border-radius: 10px;
+    color: white;
+    font-weight: 900;
+}
+
+.footer-copy {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}

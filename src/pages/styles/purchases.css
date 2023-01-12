@@ -1,0 +1,10 @@
+.section-purchases h2 {
+     display: flex;
+     justify-content: center;
+     margin-bottom: 40px;
+}
+
+.section-purchases div {
+   margin-left: 50px;
+   margin-right: 50px;
+}

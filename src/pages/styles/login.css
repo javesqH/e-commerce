@@ -1,0 +1,59 @@
+
+.form-login {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 70px;
+}
+
+.div-email label {
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.div-password label {
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.form-login button {
+    background-color: darkgreen;
+    width: 80px;
+    border-radius: 10px;
+    color:aliceblue;
+    font-weight: 500;
+    
+}
+
+.cred-email {
+    display: flex;
+    justify-content: center;
+}
+
+.cred-pass {
+    display: flex;
+    justify-content: center;
+}
+
+.div-login {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.div-login h1 {
+    margin-right: 40px;
+    color: darkslategray;
+}
+
+.div-login button {
+    width: 60px;
+    background-color: maroon;
+    border-radius: 10%;
+    color: white;
+    font-weight: 600;
+}
+
+.span-verify {
+    color: green;
+}
